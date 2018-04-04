@@ -3,7 +3,8 @@
 
 def parrot(string)
   if (string===null)
-    return "Squak!"
+    puts "Squak!"
+    return Squak!
   end
   puts string
   string
