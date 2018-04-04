@@ -7,6 +7,6 @@ def parrot(string)
   if (string===null)
     return "Squak!"
   end
-  puts ${string}
+  puts string
   string
 end
